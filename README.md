@@ -10,3 +10,5 @@ The Notebook is split into the following parts:
 4. Feature Engineering
 5. Modeling
 6. Summary
+
+The blog post describing the use case can be access at: https://pawelwl.github.io/sparkify-churn-prediction/#content
